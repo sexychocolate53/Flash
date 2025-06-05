@@ -1,20 +1,20 @@
 import streamlit as st
 
 # Page title
-st.set_page_config(page_title="Meet Flash – Sales Agent for Blissful Wunderz", page_icon="⚡")
+st.set_page_config(page_title="Meet Flash – Sales Agent for Blissful Wunderz", page_icon="")
 
 # Title Section
-st.title("🦸 Meet Flash")
+st.title("Meet Flash")
 st.subheader("Your Fast-Action Sales Agent for Blissful Wunderz Hair Growth Oil")
 
 # Mission Section
 st.markdown("""
-### 🎯 Flash's Mission
+### Flash's Mission
 To help spread the magic of **Blissful Wunderz** by getting our all-natural, results-driven **Hair Growth Oil** into the hands of people who need it most—**quickly, confidently, and consistently!**
 """)
 
 # Responsibilities Section
-st.markdown("### 💼 Flash's Responsibilities")
+st.markdown("### Flash's Responsibilities")
 st.markdown("""
 1. **Sales Outreach**  
    • DM/email salon owners, hair stylists, and beauty supply stores  
@@ -37,7 +37,7 @@ st.markdown("""
 """)
 
 # Toolbox Section
-st.markdown("### 🧰 Flash's Toolbox")
+st.markdown("### Flash's Toolbox")
 st.markdown("""
 - Lead tracker (CRM or spreadsheet)  
 - Follow-up message sequence  
@@ -53,5 +53,5 @@ st.success("Flash is here to help you grow—your sales, your brand, and your cu
 # Optional: Add a footer
 st.markdown("""
 ---
-Made with ❤️ by **Stacy Conley** for Blissful Wunderz 🌿  
+Made with by **Stacy Conley** for Blissful Wunderz   
 """)
